@@ -17,11 +17,11 @@
 
 ## Heres a Snapshot of Storefront App
 
-(https://github.com/tejpoudel/amazon-like-storefront/blob/master/result.png)
+!(https://github.com/tejpoudel/amazon-like-storefront/blob/master/result.png)
 
 ## The result of database
 
-(https://github.com/tejpoudel/amazon-like-storefront/blob/master/database.png)
+!(https://github.com/tejpoudel/amazon-like-storefront/blob/master/database.png)
 
 <br>
 
